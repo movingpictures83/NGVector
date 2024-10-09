@@ -1,0 +1,3 @@
+isonames	isonames.txt
+isogenenames	isogenenames.txt
+isosizes	mediannorm.rds

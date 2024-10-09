@@ -1,0 +1,2 @@
+Prefix plugins/NGVector/example/
+Plugin NGVector inputfile parameters.ngv.txt outputfile NGVector.rds
